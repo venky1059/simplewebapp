@@ -1,4 +1,11 @@
 source.dir=src
 web.dir=WebContent
 war.dir=War
-lib.dir=lib
+lib.dir=lirw
+w
+w
+:w
+:w
+:w
+:w
+
